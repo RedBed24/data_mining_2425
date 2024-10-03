@@ -1,0 +1,10 @@
+ipykernel
+matplotlib
+numpy
+pandas
+pygam
+scikit-learn
+scipy
+seaborn
+statsmodels
+ucimlrepo
