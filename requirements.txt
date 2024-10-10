@@ -1,4 +1,6 @@
+nbconvert
 ipykernel
+openpyxl
 matplotlib
 numpy
 pandas
